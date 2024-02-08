@@ -17,6 +17,7 @@
         <module>divisible-sum-pairs</module>
         <module>sparse-arrays</module>
         <module>find-the-median</module>
+        <module>lonely-integer</module>
     </modules>
 
     <properties>
