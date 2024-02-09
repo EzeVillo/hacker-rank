@@ -19,6 +19,7 @@
         <module>find-the-median</module>
         <module>lonely-integer</module>
         <module>grading</module>
+        <module>flipping-bits</module>
     </modules>
 
     <properties>
