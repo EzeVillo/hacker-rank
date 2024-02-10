@@ -21,6 +21,7 @@
         <module>grading</module>
         <module>flipping-bits</module>
         <module>diagonal-difference</module>
+        <module>countingsort1</module>
     </modules>
 
     <properties>
