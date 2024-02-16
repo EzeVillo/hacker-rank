@@ -24,6 +24,7 @@
         <module>countingsort1</module>
         <module>counting-valleys</module>
         <module>pangrams</module>
+        <module>mars-exploration</module>
     </modules>
 
     <properties>
