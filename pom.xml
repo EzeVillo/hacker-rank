@@ -23,6 +23,7 @@
         <module>diagonal-difference</module>
         <module>countingsort1</module>
         <module>counting-valleys</module>
+        <module>pangrams</module>
     </modules>
 
     <properties>
