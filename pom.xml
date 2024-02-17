@@ -26,6 +26,7 @@
         <module>pangrams</module>
         <module>mars-exploration</module>
         <module>flipping-the-matrix</module>
+        <module>two-arrays</module>
     </modules>
 
     <properties>
