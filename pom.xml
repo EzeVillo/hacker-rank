@@ -25,6 +25,7 @@
         <module>counting-valleys</module>
         <module>pangrams</module>
         <module>mars-exploration</module>
+        <module>flipping-the-matrix</module>
     </modules>
 
     <properties>
