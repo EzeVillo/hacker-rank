@@ -27,6 +27,7 @@
         <module>mars-exploration</module>
         <module>flipping-the-matrix</module>
         <module>two-arrays</module>
+        <module>the-birthday-bar</module>
     </modules>
 
     <properties>
