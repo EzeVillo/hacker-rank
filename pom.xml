@@ -28,6 +28,7 @@
         <module>flipping-the-matrix</module>
         <module>two-arrays</module>
         <module>the-birthday-bar</module>
+        <module>strings-xor</module>
     </modules>
 
     <properties>
