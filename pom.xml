@@ -29,6 +29,7 @@
         <module>two-arrays</module>
         <module>the-birthday-bar</module>
         <module>strings-xor</module>
+        <module>sock-merchant</module>
     </modules>
 
     <properties>
