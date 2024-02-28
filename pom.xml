@@ -30,6 +30,7 @@
         <module>the-birthday-bar</module>
         <module>strings-xor</module>
         <module>sock-merchant</module>
+        <module>migratory-birds</module>
     </modules>
 
     <properties>
