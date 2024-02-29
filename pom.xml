@@ -31,6 +31,7 @@
         <module>strings-xor</module>
         <module>sock-merchant</module>
         <module>migratory-birds</module>
+        <module>maximum-perimeter-triangle</module>
     </modules>
 
     <properties>
