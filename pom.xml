@@ -33,6 +33,7 @@
         <module>migratory-birds</module>
         <module>maximum-perimeter-triangle</module>
         <module>zig-zag-sequence</module>
+        <module>drawing-book</module>
     </modules>
 
     <properties>
