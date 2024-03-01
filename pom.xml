@@ -32,6 +32,7 @@
         <module>sock-merchant</module>
         <module>migratory-birds</module>
         <module>maximum-perimeter-triangle</module>
+        <module>zig-zag-sequence</module>
     </modules>
 
     <properties>
