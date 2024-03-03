@@ -34,6 +34,7 @@
         <module>maximum-perimeter-triangle</module>
         <module>zig-zag-sequence</module>
         <module>drawing-book</module>
+        <module>between-two-sets</module>
     </modules>
 
     <properties>
