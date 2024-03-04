@@ -35,6 +35,7 @@
         <module>zig-zag-sequence</module>
         <module>drawing-book</module>
         <module>between-two-sets</module>
+        <module>picking-numbers</module>
     </modules>
 
     <properties>
